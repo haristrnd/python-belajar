@@ -5,14 +5,14 @@ Kumpulan latihan Python dari perjalanan belajar saya menuju AI Engineer.
 ## Daftar Program
 
 ### 1. Genap atau Ganjil (main.py)
-- Deskripsi: program sederhana untuk mengetahui angka genap dan ganjl
+- Deskripsi: program sederhana untuk mengetahui angka genap dan ganjil
 - Cara menjalankan: `python main.py`
 - Contoh input/output: 
 
     Masukkan sebuah angka: 84
-    Angka tersebut adalah genap.
+    hasil: 84 adalah Genap
     Masukkan sebuah angka: 85
-    Angka tersebut adalah ganjil.
+    hasil: 85 adalah Ganjil 
     
 
 
