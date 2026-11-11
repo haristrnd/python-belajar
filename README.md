@@ -9,13 +9,14 @@ Kumpulan latihan Python dari perjalanan belajar saya menuju AI Engineer.
 - Cara menjalankan: `python main.py`
 - Contoh input/output: 
 
-    masukan sebuah angka: 24
-    hasil: 24 adalah genap
+    Masukkan sebuah angka: 85
+    Angka tersebut adalah ganjil.
 
+    
 ### 2. Grade Nilai (nilai.py)
-- Deskripsi: sebuah program sederhana untuk menetapkan grade mulai dari grade: A sampai  grade: D
+- Deskripsi: sebuah program sederhana untuk menetapkan grade mulai dari Grade: A sampai  grade: D
 - Cara menjalankan: `python nilai.py`
 - Contoh input/output:
     
-    masukan nilai: 85
-    grade A
+   Masukkan nilai: 24
+   Grade: D
