@@ -9,11 +9,12 @@ Kumpulan latihan Python dari perjalanan belajar saya menuju AI Engineer.
 - Cara menjalankan: `python main.py`
 - Contoh input/output: 
 
+    ```
     Masukkan sebuah angka: 84
     hasil: 84 adalah Genap
     Masukkan sebuah angka: 85
     hasil: 85 adalah Ganjil 
-    
+    ```
 
 
 ### 2. Grade Nilai (nilai.py)
@@ -21,7 +22,7 @@ Kumpulan latihan Python dari perjalanan belajar saya menuju AI Engineer.
 - Cara menjalankan: `python nilai.py`
 - Contoh input/output:
 
-
+   ``` 
    Masukkan nilai: 85
    Grade: A
    Masukkan nilai: 70
@@ -30,3 +31,4 @@ Kumpulan latihan Python dari perjalanan belajar saya menuju AI Engineer.
    Grade: C 
    Masukkan nilai: 24
    Grade: D
+   ```
