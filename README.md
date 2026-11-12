@@ -32,3 +32,19 @@ Kumpulan latihan Python dari perjalanan belajar saya menuju AI Engineer.
    Masukkan nilai: 24
    Grade: D
    ```
+
+### 3. Mengukur Suhu (suhu.py)
+- Deskripsi: sbeuh program yang mengukur sebuah suhu apakah suhu tersebut masuk dalam kategori panas, sejuk maupun dingin
+- Cara menjalankan: `python suhu.py`
+- Contoh input/output: 
+
+   ```
+   Masukkan suhu dalam Celcius: 30
+   Suhu Panas
+
+   Masukkan suhu dalam Celcius: 20
+   Suhu Sejuk
+
+   Masukkan suhu dalam Celcius: 19
+   Suhu Dingin
+   ```
